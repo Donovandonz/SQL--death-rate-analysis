@@ -53,19 +53,19 @@ This project analyzes death rate patterns across Malaysia using SQL for data cle
 
 | # | Question | SQL File |
 |:--:|----------|----------|
-| 1 | | 1 | Summary statistics by state? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/01_customer_demographic.sql">SQL-query</a> |? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/01_customer_demographic.sql">SQL-query</a> |
-| 2 | Compare deaths by gender? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/02_gender_analysis.sql">SQL-query</a> |
-| 3 | Total deaths by district and average rate? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/03_most_popular_category.sql">SQL-query</a> |
-| 4 | Total deaths yearly and avg yearly rate? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/04_seasonal_trends.sql">SQL-query</a> |
-| 5 | Top 5 States with HIGHEST death rates? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/05_frequency_of_purchases.sql">SQL-query</a> |
-| 6 |op 5 States with LOWEST death rates? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/06_customer_segment.sql">SQL-query</a> |
-| 7 |  Year-over-year change in death rates by state? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/07_size_preferences.sql">SQL-query</a> |
-| 8 | Male vs Female death rates by state? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/08_color_preferences.sql">SQL-query</a> |
-| 9 | Highest districts Rank by death rate within each state? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/09_discount_impact.sql">SQL-query</a> |
-| 10 | Statistics for each district? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/10_subscription_status.sql">SQL-query</a> |
-| 11 | Districts with MOST variation in death rates? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/11_performance_by_location.sql">SQL-query</a> |
-| 12 | Districts with LEAST variation in death rates? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/12_payment_method.sql">SQL-query</a>|
-| 13 | Male-to-Female death ratio by state and year? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/13_review_rating.sql">SQL-query</a> |
-| 14 | Compare rate categories with death counts? |-<a href="https://github.com/Donovandonz/SQL--shopping-behavior-analysis/blob/main/14_identify_repeat_purchase.sql">SQL-query</a> |
+| 1 | | 1 | Summary statistics by state? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/01_summary_statistic.sql">SQL-query</a> |
+| 2 | Compare deaths by gender? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/02_deaths_by_gender.sql">SQL-query</a> |
+| 3 | Total deaths by district and average rate? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/03_avg_rate_by_district.sql">SQL-query</a> |
+| 4 | Total deaths yearly and avg yearly rate? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/04_time_trend_analysis.sql">SQL-query</a> |
+| 5 | Top 5 States with HIGHEST death rates? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/05_top%205_highest.sql">SQL-query</a> |
+| 6 |op 5 States with LOWEST death rates? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/06_top_5_lowest_state.sql">SQL-query</a> |
+| 7 |  Year-over-year change in death rates by state? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/07_Yoy.sql">SQL-query</a> |
+| 8 | Male vs Female death rates by state? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/08_MvsF_death_rates.sql">SQL-query</a> |
+| 9 | Highest districts Rank by death rate within each state? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/09_rank_district.sql">SQL-query</a> |
+| 10 | Statistics for each district? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/10_detail_statistic.sql">SQL-query</a> |
+| 11 | Districts with MOST variation in death rates? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/11_most_variations.sql">SQL-query</a> |
+| 12 | Districts with LEAST variation in death rates? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/12_least_variations.sql">SQL-query</a>|
+| 13 | Male-to-Female death ratio by state and year? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/13_male_to_female_ratio.sql">SQL-query</a> |
+| 14 | Compare rate categories with death counts? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/14_rate_category.sql">SQL-query</a> |
 
 
