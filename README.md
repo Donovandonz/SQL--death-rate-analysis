@@ -1778,6 +1778,14 @@ This analysis categorizes Sabah's districts by death rate ranges and compares av
 # 👇Full SQL query-code-analysis👇
 -<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/death_rate_analysis_db.sql">Death-rate-SQL-query-code-analysis</a>
 
+---
+
+# Dashboard Overview
+-<a href="https://github.com/Donovandonz/Tableau--death-rate-dashboard-and-analysis">Tableau-death-rate-dashboard</a>
+
+<img width="1999" height="1124" alt="Death Rate Dashboard" src="https://github.com/user-attachments/assets/c772b5bf-0287-45b5-812c-8580a70ee9a2" />
+
+
 
 
 
