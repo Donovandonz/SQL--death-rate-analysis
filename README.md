@@ -53,7 +53,7 @@ This project analyzes death rate patterns across Malaysia using SQL for data cle
 
 | # | Question | SQL File |
 |:--:|----------|----------|
-| 1 | | 1 | Summary statistics by state? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/01_summary_statistic.sql">SQL-query</a> |
+| 1 | Summary statistics by state? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/01_summary_statistic.sql">SQL-query</a> |
 | 2 | Compare deaths by gender? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/02_deaths_by_gender.sql">SQL-query</a> |
 | 3 | Total deaths by district and average rate? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/03_avg_rate_by_district.sql">SQL-query</a> |
 | 4 | Total deaths yearly and avg yearly rate? |-<a href="https://github.com/Donovandonz/SQL--death-rate-analysis/blob/main/04_time_trend_analysis.sql">SQL-query</a> |
